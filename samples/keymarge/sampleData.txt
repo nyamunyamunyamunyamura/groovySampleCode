@@ -1,0 +1,4 @@
+sample data 1
+<root>     <record>         <key1>A000</key1>         <key2>0010</key2>         <product>monitor</product>         <function>sound</function>     </record> </root>
+sample  data 2
+<root>     <record>         <key1>A000</key1>         <key2>0010</key2>         <price>1000000</price>         <taxrate>20</taxrate>     </record> </root>
